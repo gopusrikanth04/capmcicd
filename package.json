@@ -18,7 +18,8 @@
   },
   "scripts": {
     "start": "cds-serve",
-    "watch": "cds-watch"
+    "watch": "cds watch",
+    "hybrid": "cds watch --profile hybrid"
   },
   "cds": {
     "requires": {
