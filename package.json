@@ -19,10 +19,7 @@
   "scripts": {
     "start": "cds-serve",
     "watch": "cds watch",
-    "hybrid": "cds watch --profile hybrid",
-    "hybrid2": "cds watch --profile hybrid",
-    "hybrid3": "cds watch --profile hybrid",
-    "hybrid4": "cds watch --profile hybrid",
+    "hybrid": "cds watch --profile hybrid"
   },
   "cds": {
     "requires": {
